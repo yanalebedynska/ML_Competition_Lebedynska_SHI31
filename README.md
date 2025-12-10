@@ -19,7 +19,6 @@ Author: Yana Lebedynska (SHI-31)
 │-- evaluation.py            - швидка перевірка пайплайну (без повного тренування)
 │-- how-to-evaluate.ipynb    - докладна інструкція для користувача
 │-- requirements.txt         - список залежностей
-│-- Звіт до роботи
 │-- data/
 │      └── (порожньо - користувач додає train.csv і to_answer.csv вручну)
 ```
