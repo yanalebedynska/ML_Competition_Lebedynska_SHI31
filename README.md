@@ -17,7 +17,7 @@ Author: Yana Lebedynska (SHI-31)
 │-- README.md                - опис проєкту
 │-- train.py                 - основний скрипт навчання моделі
 │-- evaluation.py            - швидка перевірка пайплайну (без повного тренування)
-│-- how-to-evaluate.ipynb    - докладна інструкція для викладача
+│-- how-to-evaluate.ipynb    - докладна інструкція для користувача
 │-- requirements.txt         - список залежностей
 │-- Звіт до роботи
 │-- data/
